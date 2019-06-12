@@ -4,9 +4,9 @@ pi-temperature-logger is designed to run on a raspberry pi with a DS18B20 temper
 
 ### Download & Setup
 
-* git clone https://github.com/kdim953/pi-temperature-logger.git
+* ```git clone https://github.com/kdim953/pi-temperature-logger.git```
 
-* pip install -r requirements.txt
+* ```pip install -r requirements.txt```
 
 ### Configuration
 
