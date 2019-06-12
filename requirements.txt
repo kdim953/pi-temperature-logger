@@ -1,0 +1,9 @@
+certifi
+chardet
+idna
+influxdb
+python-dateutil
+pytz
+requests
+six
+urllib3
